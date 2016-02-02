@@ -1,0 +1,11 @@
+{
+  "name": "@aliem/arg",
+  "version": "1.0.0",
+  "description": "I needed to parse args ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js -a A -b B -c -d D"
+  },
+  "author": "Lorenzo Giuliani <lorenzo@frenzart.com>",
+  "license": "WTFPL"
+}
